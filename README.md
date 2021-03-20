@@ -1,6 +1,27 @@
 # yu-components
-A React Hook based component library
 
-learn to do：https://zhuanlan.zhihu.com/p/94920464
+## Getting Started
 
-Document create by Dumi  
+Install dependencies,
+
+```bash
+$ npm i
+```
+
+Start the dev server,
+
+```bash
+$ npm start
+```
+
+Build documentation,
+
+```bash
+$ npm run docs:build
+```
+
+Build library via `father-build`,
+
+```bash
+$ npm run build
+```
